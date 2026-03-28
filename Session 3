@@ -1,0 +1,11 @@
+# Arithmetic Operators
+a = int(input("Enter the First no."))
+b = int(input("Enter the First no."))
+
+print("Addition", a + b)
+print("Subtraction", a - b)
+print("Multiplacation", a * b)
+print("Division", a / b)
+print("Modulos", a % b)
+print("Floor Division", a // b)
+print("Exponentiation", a ** b)

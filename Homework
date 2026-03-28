@@ -1,0 +1,12 @@
+a="June 3rd"
+b="March 5th"
+c="January 6th"
+d="July 18th"
+e="December 9th"
+
+print("Birthday List:-")
+print("Raj:",a)
+print("Boojho:",b)
+print("Kanav:",c)
+print("Mannat:",d)
+print("Yuvaan:",e)
