@@ -1,0 +1,7 @@
+s = str(input("Enter the word you want to reverse: "))
+string=(' ')
+
+for i in s:
+    string = i + string
+print("\nThe original Word = ", s)
+print("\nThe new reversed Word = ", string)
