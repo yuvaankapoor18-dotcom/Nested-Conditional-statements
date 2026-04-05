@@ -1,0 +1,5 @@
+a = int(input("enter the number whose square you want: "))
+
+b = a * a
+print("square =")
+print(b)
